@@ -1,0 +1,4 @@
+26-01-2021 14:26:37: The function to find filename took 6.8077µs
+26-01-2021 14:26:37: The function to calculate lines took 17.6466µs
+26-01-2021 14:26:39: The function to query word tom took 19.8453µs
+and the word: 'tom' was found79 times
